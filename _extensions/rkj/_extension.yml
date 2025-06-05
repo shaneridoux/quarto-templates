@@ -6,7 +6,7 @@ contributes:
       title: "Title"
       subtitle: "Subtitle"
       author: "Author"
-      abstract: "abstract: 'Quick summary of document or project'"
+      abstract: "Quick summary of document or project"
       fig-width: 8
       fig-height: 4
       code-overflow: scroll
