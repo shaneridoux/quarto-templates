@@ -1,0 +1,17 @@
+from: html
+
+format:
+  html:
+    theme: styles.scss
+    fig-width: 8
+    fig-height: 4
+    code-overflow: scroll
+    code-line-numbers: true
+    code-copy: true
+    code-block-border-left: true
+    code-block-bg: true
+    toc: true
+    toc-location: left
+    self-contained: true
+    title-block-banner: "#CFB87C"
+    title-block-banner-color: "#000000"
