@@ -1,7 +1,5 @@
 ---
-title: "test"
-subtitle: "sub-test"
-author: "Shane E. Ridoux"
+
 date: today
 format: rkj-html
 ---
