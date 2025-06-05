@@ -1,7 +1,10 @@
 ---
-
-date: today
+title: "Title"
+subtitle: "Subtitle"
+author: "Author"
+abstract: "overview of report"
 format: rkj-html
+editor: visual
 ---
 
 ## Section 1
